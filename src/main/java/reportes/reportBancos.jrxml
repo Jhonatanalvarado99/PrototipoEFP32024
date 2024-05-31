@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="null" language="java" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="ebd8d3a1-cf5a-4fd4-9e7a-9bd8a82828e8">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<queryString language="SQL">
+		<![CDATA[SELECT * FROM bancos;]]>
+	</queryString>
+	<field name="id_banco" class="java.lang.Integer">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="nombre_banco" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="estatus_legal" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="direccion_principal" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="79" splitType="Stretch"/>
+	</title>
+	<pageHeader>
+		<band height="35" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="61" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="100" height="20" uuid="e840c817-9dba-424b-ac5a-38f61160ba64"/>
+				<text><![CDATA[id_banco]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="100" y="0" width="100" height="20" uuid="469f4136-43b4-4378-8a51-e7ecf87ffe35"/>
+				<text><![CDATA[nombre_banco]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="270" y="2" width="100" height="20" uuid="8dd3469c-bc26-461b-94be-f9cdf541e04f"/>
+				<text><![CDATA[estatus_legal]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="423" y="2" width="100" height="20" uuid="6d6fb3fe-b720-43c8-9211-087450b147c3"/>
+				<text><![CDATA[direccion_principal]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="125" splitType="Stretch">
+			<textField>
+				<reportElement x="10" y="28" width="100" height="20" uuid="4700464e-614d-4076-8894-13637a0f0f59"/>
+				<textFieldExpression><![CDATA[$F{id_banco}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="110" y="28" width="100" height="20" uuid="24a88711-70dd-4ec1-9615-ff746a9b8181"/>
+				<textFieldExpression><![CDATA[$F{nombre_banco}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="270" y="32" width="100" height="20" uuid="ce9ee158-8332-43f1-85d0-422dc62de7e1"/>
+				<textFieldExpression><![CDATA[$F{estatus_legal}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="423" y="40" width="100" height="20" uuid="01ab5b9d-8337-4726-ad07-4671a7819dc2"/>
+				<textFieldExpression><![CDATA[$F{direccion_principal}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

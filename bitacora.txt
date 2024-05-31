@@ -1,0 +1,773 @@
+commit 661be528706aec566976472e29b2b88f13c36c46
+Author: Kenph-Ansonny <ansonny54@gmail.com>
+Date:   Fri May 24 11:11:16 2024 -0600
+
+    Finalizando y complementando el Proyecto con ajustes y detalles
+
+commit 536b02e7e6b8425ca6ee06e2611ffee6931cb8b6
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Fri May 24 10:24:34 2024 -0600
+
+    creacion de bitacora ciclos
+
+commit c74256445b0514eb6283ab733507aab5112b0aee
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Fri May 24 10:14:29 2024 -0600
+
+    correcion de Script Siu
+
+commit 01b92af28b4c0b3e8e91a4918fb309560c3c0cd3
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Fri May 24 10:12:43 2024 -0600
+
+    creacion de reporte ciclos
+
+commit 531e70ca8cf1ef298836a0ea5d91a44c0ede0489
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Fri May 24 10:11:13 2024 -0600
+
+    prueba
+
+commit 3eea26ea1f889c5515bf972dd1e0b2a33e46121a
+Merge: daca240 9f32ab0
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Fri May 24 10:08:27 2024 -0600
+
+    Merge branch 'main' of https://github.com/Jhonatanalvarado99/proyectop32k24b
+
+commit daca240d38bd930de86aca0e241870855273145e
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Fri May 24 10:08:10 2024 -0600
+
+    creacion de reporte ciclos 9959-22-11003
+
+commit ca300aef53be293079a2d05266f11b72b3dfb8cb
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Fri May 24 10:05:10 2024 -0600
+
+    creacion de reporte ciclos 9959-22-11003
+
+commit c90f388cd0d7e68c41b1cae23945b2a9c9ee085a
+Merge: 62af340 34e609c
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Fri May 24 10:01:20 2024 -0600
+
+    creacion de reporte de ciclos 9959-22-11003
+
+commit 34e609c58ec5e5412168bbe72d97605648e28ef3
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Fri May 24 09:58:49 2024 -0600
+
+    creacion de reporte de mantenimiento ciclos
+
+commit 62af340c09cac32c58cb2c34eb4301db0cb4446f
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Mon May 20 22:44:41 2024 -0600
+
+    prueba
+
+commit 9f32ab0aceaca97ae63bfb4218bf18d354421254
+Merge: e45f420 3d4f0f4
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Mon May 20 10:31:41 2024 -0600
+
+    Merge pull request #8 from Jhonatanalvarado99/main
+    
+    Grupo #3
+
+commit 0e6c7cead5305424cdc5168847da65422e356b6c
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Sun May 19 23:24:53 2024 -0600
+
+    agregando proceso de implementacion de notas
+
+commit 3d4f0f49398a11548f7e0663c6e18079b0ab2bd5
+Merge: 4f229c1 e45f420
+Author: Jhonatan Alvarado <123187692+Jhonatanalvarado99@users.noreply.github.com>
+Date:   Sun May 19 23:22:10 2024 -0600
+
+    Merge branch 'edelaguila:main' into main
+
+commit 4f229c11d4b3a7127ec77fe9165b3555c755866a
+Author: Kenph-Ansonny <ansonny54@gmail.com>
+Date:   Sun May 19 22:00:06 2024 -0600
+
+    Implementacion de Proceso: Ingreso de notas
+
+commit e45f42007acfe072bddfe2993ae181832d138f7c
+Merge: ca0cb83 7f49bdf
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Fri May 17 12:03:16 2024 -0600
+
+    Merge pull request #6 from OscarRuben2024/main
+    
+    GRUPO 2 Procesos Transaccionales
+
+commit ca0cb83431cd7fb0a0b118620fc71576ab86f26b
+Merge: bbc5752 61de206
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Fri May 17 12:03:04 2024 -0600
+
+    Merge pull request #5 from Jhonatanalvarado99/main
+    
+    Grupo 3
+
+commit 7f49bdfc340262e06928ba8c11917902848effd4
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Fri May 17 00:07:24 2024 -0600
+
+    Update MantenimientoBancos.java
+
+commit 1b34b7c5ec420ad1cb65f977aea0840c5ffa371a
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Fri May 17 00:06:23 2024 -0600
+
+    Nuevos ReportesBancos
+
+commit 5e2e67d1f206c89929603d76789245bad0476175
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Fri May 17 00:00:27 2024 -0600
+
+    ProcesosTiposPagosMaestros
+
+commit fc1c923af92fdd861dec0bd5d8aaff8b86091de2
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Fri May 17 00:00:01 2024 -0600
+
+    ProcesoPagosDao
+
+commit 8d2215f6fe7862a64c216a346e8d398118d0564e
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Thu May 16 23:59:21 2024 -0600
+
+    ProcesosTransaccionales
+    
+    - Tesorería
+    - AsignacionMaestros
+
+commit 61de206250943437da0f715dda9f42e532d829af
+Merge: 40143b6 8db3b50
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Thu May 16 23:02:06 2024 -0600
+
+    creacion de archivos de ActaEvaluacionDAO y Acta_Evaluacion falta vista
+
+commit 40143b651a62ba9324ea633df034cadc99057aab
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Thu May 16 22:53:43 2024 -0600
+
+    arreglo de mantenimiento cursos
+
+commit d07ec9bd837a088e623461b290172962f6795159
+Merge: 8633961 b03dd64
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Thu May 16 22:49:50 2024 -0600
+
+    creacion de reporte
+
+commit 86339617461dac3e6856648d8a5fa3fa10ae13d1
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Thu May 16 22:45:07 2024 -0600
+
+    creacion de reporte
+
+commit b03dd64dc46aaa07f81c14a151e67031a25d127c
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Thu May 16 22:37:58 2024 -0600
+
+    Creacion de reporte de ciclos 9959-22-11003
+
+commit 752df509ed35a20d7dba39a465d67ee3cd65456f
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Thu May 16 22:30:02 2024 -0600
+
+    creacion de
+
+commit 176039490343114cae4cfaceed4ddaaeabc56a96
+Merge: bbc5752 6150687
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Thu May 16 22:14:36 2024 -0600
+
+    Merge pull request #11 from OscarRuben2024/ProcesoTiposDeMoneda_9959_22_2702
+    
+    ProcesoTiposDeMoneda_9959_22_2702
+
+commit 8db3b50bc7cc0df026e6e3b471894a1dc1cc78bf
+Author: Kenph-Ansonny <ansonny54@gmail.com>
+Date:   Thu May 16 20:10:22 2024 -0600
+
+    Se agrego el ActaEvaluacion - Falta crear el Form para Ingresar Notas
+
+commit 6150687ba5852bbec2b55d78508cfb2a2272ba96
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Thu May 16 17:24:38 2024 -0600
+
+    PruebaTesoreria
+
+commit bbc5752db6116361870863fbbe1de44a04576f20
+Merge: 43cba3c 3af1754
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Wed May 15 11:26:20 2024 -0600
+
+    Merge pull request #4 from OscarRuben2024/main
+    
+    Grupo 2 Reportes y Ayudas
+
+commit 3af17540de2b62b7922485f2aaf86a9be0e92d7d
+Merge: 4406004 43cba3c
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Wed May 15 11:26:10 2024 -0600
+
+    Merge branch 'main' into main
+
+commit 43cba3c2b4a9239258c6f434d29d9baeab40a05d
+Merge: df9e5b0 3b8edac
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Wed May 15 11:17:25 2024 -0600
+
+    Merge pull request #3 from WilberOrdonez/main
+    
+    Grupo 1 fase 3 catalogos con ayudas
+
+commit 3b8edac377b33d0121b737fa97a8082c34596cc1
+Merge: 03a4018 df9e5b0
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Wed May 15 11:17:15 2024 -0600
+
+    Merge branch 'main' into main
+
+commit df9e5b03e5a713b2499a672390cbdad5e6a381a1
+Merge: 0becaf6 657e149
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Wed May 15 11:04:22 2024 -0600
+
+    Merge pull request #2 from Jhonatanalvarado99/main
+    
+    Grupo #3
+
+commit 44060047c83afd7b5b90447fe438cd34925ebb32
+Merge: 724cffa 3c9c2ed
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Wed May 15 00:11:16 2024 -0600
+
+    Merge pull request #9 from josegarcia24mont/MantenimientoTiposDePago_9959-22-1942
+    
+    Actualización Mantenimiento
+
+commit 3c9c2edadbf47a5a6b1497e1ce47172e56c9c181
+Author: Jose García <joseagmont@gmail.com>
+Date:   Tue May 14 23:00:54 2024 -0600
+
+    Actualización Mantenimiento
+
+commit 03a40183156d792db701d2c4e0a70923a16d6285
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Sun May 12 23:29:49 2024 -0600
+
+    se agrega secciones
+
+commit d399f4780e42fe5c801549c28256855648e3e61a
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Sun May 12 23:17:38 2024 -0600
+
+    Se arreglan los reportes de alumnos
+
+commit 9a2f45edfb2f61986bf71f4aa6f3f21e787a957f
+Merge: cb39b88 52d756a
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Sun May 12 23:11:14 2024 -0600
+
+    Agregando reportes alumnos
+
+commit 724cffa493ec2e0333dafe1d39b1ab422097eea7
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Sun May 12 22:53:25 2024 -0600
+
+    Add files via upload
+
+commit ab1d01ad842437cc5f261371ebd4d4d2fac67493
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Sun May 12 22:53:06 2024 -0600
+
+    Add files via upload
+
+commit 1f01a043c838eb316e8d8680722fb2d922fb9bad
+Merge: 6e29025 cf05043
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Sun May 12 22:51:28 2024 -0600
+
+    Merge pull request #8 from OscarRuben2024/ReportesTiposDeMoneda_9959-22-2702
+    
+    Reportes tipos de moneda 9959 22 2702
+
+commit cf050430fabe0fcea240cfec4d3e8c927e09dcf0
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Sun May 12 22:43:43 2024 -0600
+
+    Reporte tipos de moneda
+
+commit 65ef425d1935147de7b2b446a72ed8fed8baef6e
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Sun May 12 22:41:25 2024 -0600
+
+    Reportes Tipos de moneda
+
+commit cb39b881fb24a1640eada239d238f56b06d325f9
+Merge: af4050c 6124aba
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Sun May 12 22:37:53 2024 -0600
+
+    reportes Facultades
+
+commit af4050ca1679a7503a3d0116c85070c110da3c2e
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Sun May 12 22:21:57 2024 -0600
+
+    prueba antes de unir carreras
+
+commit 6e29025e1c2fbe18e59aa1b0247a75f488147f5c
+Merge: 9b38070 9ff0e72
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Sun May 12 21:16:31 2024 -0600
+
+    Merge pull request #7 from OscarRuben2024/ReportesBancos_9959-22-3651
+    
+    Reportes Bancos
+
+commit 9ff0e726cbb3c6bdcb0a9f5016be400221cdd7d4
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Sun May 12 21:15:23 2024 -0600
+
+    Reportes Bancos
+
+commit 9b38070482e9a58ee9b458d3c6428b7545251cb5
+Merge: a512688 0608e73
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Sun May 12 19:25:15 2024 -0600
+
+    Merge pull request #6 from josegarcia24mont/MantenimientoTiposDePago_9959-22-1942
+    
+    ReporteTiposDePagos
+
+commit 0608e735877642d21cfd3d91975d59320c2d32a3
+Author: Jose García <joseagmont@gmail.com>
+Date:   Sun May 12 19:21:14 2024 -0600
+
+    ReporteTiposDePagos
+
+commit 52d756adcabf2bbfb6a966488a86ece320ef85c4
+Author: Carlos-David-Rojas-Coronado <crojasc3@miumg.edu.gt>
+Date:   Sun May 12 18:42:21 2024 -0600
+
+     se agrego Alumnos_2010
+
+commit 657e149db64416a836f054152baedb7ea32b42aa
+Author: Kenph-Ansonny <ansonny54@gmail.com>
+Date:   Sun May 12 17:48:27 2024 -0600
+
+    Implementacion de Bitacora y Reportes
+
+commit 6124aba0844e2602ed6500be20650374b6892318
+Author: Favio2907 <favio.alejandro2907@gmail.com>
+Date:   Sun May 12 16:04:50 2024 -0600
+
+    Agregando Carreras_2040
+
+commit 7a460c8ef37df10cf00b8b17ccbe3825ea89c12c
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Sun May 12 01:42:56 2024 -0600
+
+    main listo para ser usado para los reportes
+
+commit 2c8bc1064d252df9cb2fb943c0344e8af2a40055
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Sat May 11 01:01:17 2024 -0600
+
+    volviendo a punto atras por error en el merge
+
+commit e208eb48edb9720f38a521448307b3a8307c4c41
+Merge: 779f8fb 0becaf6
+Author: WilberOrdonez <127625440+WilberOrdonez@users.noreply.github.com>
+Date:   Sat May 11 00:21:30 2024 -0600
+
+    Merge branch 'main' into main
+
+commit 779f8fb598ba3124a8697226e853b8183c7c71a8
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Fri May 10 22:55:21 2024 -0600
+
+    se pone el archivo de ayudas carreras correcto
+
+commit c02e40a3f1aac1f0a14dd2086fb10405488b9ffc
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Fri May 10 22:51:40 2024 -0600
+
+    Arreglando ayudas secciones y facultades
+
+commit b92bdcc9572cf1367805be47c291d48c1e2926c2
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Thu May 9 23:47:11 2024 -0600
+
+    creacion de tabla ciclos y se agrega archivos de ayuda a maestros y ciclos
+
+commit 6fcfaff848829f440912cf7bdc5b31c25599fee4
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Thu May 9 23:18:13 2024 -0600
+
+    agregando mantenimiento ciclos
+
+commit a512688264a74e76c0aeefd72f03855e51af646c
+Author: Oscar Morales <omoraless6@miumg.ed.gt>
+Date:   Thu May 9 23:01:20 2024 -0600
+
+    Acutalizacion MIDI y Siu
+
+commit f24b0d8bd4aa336e2cfd909e1f55b01baec4639b
+Merge: 10f4880 8933b9c
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Thu May 9 22:56:08 2024 -0600
+
+    merge de ayudas alumnos
+
+commit 8933b9c941eb94df9ecdca3b3720a8c9558529b5
+Author: Carlos-David-Rojas-Coronado <crojasc3@miumg.edu.gt>
+Date:   Thu May 9 22:51:39 2024 -0600
+
+    final de ayudas
+
+commit fd7f27b8297143eb1bca65ef643696d263b0a7b7
+Author: Carlos-David-Rojas-Coronado <crojasc3@miumg.edu.gt>
+Date:   Thu May 9 22:45:31 2024 -0600
+
+    ayudas para Alumnos
+
+commit 10f4880c505b9c3dc45fa4ffb60d326deba2a352
+Merge: 5b9e674 6e54675
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Thu May 9 22:44:58 2024 -0600
+
+    haciendo merge ayudas secciones
+
+commit 02b88e9b348c93254053ec41d752a6bf413cd775
+Author: Jhonatan Alvarado <jalvaradoc24@miumg.edu.gt>
+Date:   Thu May 9 22:44:34 2024 -0600
+
+    Creacion de Mantenimiento Cursos
+
+commit 53e0cd29f5e129aa2f5e93a8dc0a05bd8da18376
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Thu May 9 22:42:02 2024 -0600
+
+    Siu
+    
+    - Nuevas tablas
+    - Corrección en la tabla bancos
+
+commit 67729457cc3ae01b09320fd2577fbead802b15ad
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Thu May 9 22:37:02 2024 -0600
+
+    Ayuda Tipos de moneda
+
+commit f8a646c6b017c1ea711050b56fd004ecd0e6c4df
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Thu May 9 22:36:37 2024 -0600
+
+    Delete TiposDeMonedaDAO.java
+
+commit 613fb9938b427844b464a0f5ce9cb37df828c213
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Thu May 9 22:36:15 2024 -0600
+
+    Ayuda Tipos de moneda
+
+commit 74471d6fd36e238b8bd6b7974bdf29c6f8aa7d88
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Thu May 9 22:35:25 2024 -0600
+
+    Delete TiposDeMoneda.java
+
+commit 2b787a4e0163aab5263c9e3d2a3987a0ecfe697d
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Thu May 9 22:34:53 2024 -0600
+
+    Ayuda Mantenimiento Tipos de moneda
+
+commit d0f93f1d8d3dfa766466658b364155284cfbc3fd
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Thu May 9 22:34:19 2024 -0600
+
+    Delete MantenimientoTiposDeMoneda.java
+
+commit 891e9328f4a1e43520bf09a797b5edc173116e5c
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Thu May 9 22:34:03 2024 -0600
+
+    Ayuda Mantenimiento Tipos de moneda
+
+commit e4cecfd534496a55ca906116c0dfb9e4c2c2b75e
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Thu May 9 22:32:53 2024 -0600
+
+    Delete MantenimientoTiposDeMoneda.form
+
+commit 907d93dd149689e43c005074c85b9e52643f101d
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Thu May 9 22:32:29 2024 -0600
+
+    Ayuda Tipos de moneda
+
+commit 0ff53ed012c2bc0065d25a8ded0f13eb456ad059
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Thu May 9 22:31:59 2024 -0600
+
+    Delete AyudaTiposDeMoneda.chm
+
+commit b547de56a222b08e0b4fb3914e521d9655a7329f
+Author: Kevin González Sosa <123187500+kgonzalez26@users.noreply.github.com>
+Date:   Thu May 9 22:27:52 2024 -0600
+
+    Ayuda para Tipos de monedas 9959-22-2702
+
+commit 6e5467529026f6d2bed0ad551a9e509121c28ba0
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Thu May 9 22:23:16 2024 -0600
+
+    Agregado de Ayudas
+
+commit 25e4f2e33f7e0988afbd52b980e6495dc6433309
+Author: Carlos-David-Rojas-Coronado <crojasc3@miumg.edu.gt>
+Date:   Thu May 9 22:20:05 2024 -0600
+
+     ayudas de alumnos
+
+commit c4790c8d4d4fd43d4d9c9c223df7daaf33d1ff63
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Thu May 9 22:16:00 2024 -0600
+
+    MantenimientoBancosUpdate
+
+commit ab64cf446c4438e07e41eb5f59f46f768b7e84d0
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Thu May 9 22:15:32 2024 -0600
+
+    BancosDAOUPDATE
+
+commit 8a950b1cb297eab9d7db5690ebfbb0e87914361a
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Thu May 9 22:14:59 2024 -0600
+
+    ClaseBancosUpdate
+
+commit 0cf63cac76cbd5f4dc9f945150fb1b70d58bae96
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Thu May 9 22:14:30 2024 -0600
+
+    AyudaBancos
+
+commit 3532f3e4066fd8d60220523cc44886d0a7842801
+Merge: 03e3b93 624f14b
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Thu May 9 19:07:33 2024 -0600
+
+    Merge pull request #1 from josegarcia24mont/MantenimientoTiposDePago_9959-22-1942
+    
+    AyudasTiposDePagos
+
+commit 624f14b2d20269e24cd056a3fcda253b2cc8994d
+Author: Jose García <joseagmont@gmail.com>
+Date:   Thu May 9 18:01:31 2024 -0600
+
+    AyudasTiposDePagos
+
+commit 5b9e67473b22ef8a102b4b94a02cd16f5e4a5eae
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Thu May 9 02:08:42 2024 -0600
+
+    agregando rama y ayudas facultades
+
+commit ee965c92b6ac77fa54f2fe329529a5b78026ad35
+Author: Favio2907 <favio.alejandro2907@gmail.com>
+Date:   Wed May 8 18:46:41 2024 -0600
+
+    Agregando archivo ayudas carreras
+
+commit 71ac28dc47a183eee35eaf0f882c9968cc616069
+Author: Favio2907 <favio.alejandro2907@gmail.com>
+Date:   Wed May 8 17:12:50 2024 -0600
+
+    Subiendo segunda rama de carreras
+
+commit 03e3b931866bb574fb612c9aee9473bda33868ab
+Merge: 1bdc6f8 0becaf6
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Wed May 8 12:14:44 2024 -0600
+
+    Merge branch 'edelaguila:main' into main
+
+commit 0becaf6a544803748c03e072482be5372ac441f5
+Author: Esduardo Del Aguila <daguilae@yahoo.com>
+Date:   Wed May 8 12:11:15 2024 -0600
+
+    agregando funcionabilidad a la bitacora de seguridad y los reportes
+
+commit c5283a1e4c7f2deec2ae368b4efabb40198ed737
+Merge: d3f2efc 9e38ad8
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Wed May 8 01:12:12 2024 -0600
+
+    prueba final merge favio
+
+commit d3f2efcbd3690401ffc74ce7d93f6cbaa55c0d1a
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Wed May 8 01:09:32 2024 -0600
+
+    prueba antes de hacer merge de favio
+
+commit cd44105a5c1d75fbb7bf8352b2d46446e398dcb2
+Merge: 28e69d3 84a3bd8
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Wed May 8 01:01:56 2024 -0600
+
+    prueba merge david
+
+commit 28e69d3ea8b6b0e02aa52d28725f2c88a17fbd4b
+Merge: b75119f 53adcae
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Wed May 8 00:43:53 2024 -0600
+
+    prueba commit
+
+commit 9e38ad873b7ec3e6bf7157f24f91f317a0ab49a8
+Author: Favio2907 <favio.alejandro2907@gmail.com>
+Date:   Tue May 7 23:55:30 2024 -0600
+
+    Actualizando conexion
+
+commit b75119fe22492d219915eee832e92e78ae9e8818
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Tue May 7 23:16:36 2024 -0600
+
+    arreglando error de merge
+
+commit 84a3bd8b9591e50851ef6549ebd8b7ce76cacbc8
+Merge: e7005e1 7384af2
+Author: Carlos-David-Rojas-Coronado <crojasc3@miumg.edu.gt>
+Date:   Tue May 7 21:30:34 2024 -0600
+
+    mantenimiento de alumnos terminado
+
+commit e7005e108826359c86c62b5a72e5974ec42bf198
+Author: Carlos-David-Rojas-Coronado <crojasc3@miumg.edu.gt>
+Date:   Tue May 7 21:11:16 2024 -0600
+
+    ahora si ya funciona :)
+
+commit 1bdc6f8953c467cb20580c55a132c77a1249748d
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Tue May 7 15:25:55 2024 -0600
+
+    Mantenimientos
+
+commit 1f5a273b0a614a7f86ea432d2fc909be6fa2b6a3
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Tue May 7 15:25:33 2024 -0600
+
+    ClasesDAO
+
+commit 61b4093ec3cca3e6ad8874c90fdf32e1cc5993b9
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Tue May 7 15:25:05 2024 -0600
+
+    Clases
+
+commit ec52e6f2736ed5a7cabae24be5a72f774bcd61f4
+Merge: 4391868 d681143
+Author: Oscar Morales <omoraless6@miumg.ed.gt>
+Date:   Tue May 7 15:20:26 2024 -0600
+
+    Merge branch 'main' of https://github.com/OscarRuben2024/proyectop32k24b
+
+commit 439186863abcd8406b203558c4d47dec9eee3705
+Author: Oscar Morales <omoraless6@miumg.ed.gt>
+Date:   Tue May 7 15:18:57 2024 -0600
+
+    agregando Clases
+
+commit 730c21ddf746269d92edb5f67e32dd836d0985f9
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Tue May 7 08:41:52 2024 -0600
+
+    Actualizacion antes de subir rama de favio
+
+commit 41fcfd35321c2c234bb3b87a9f3d1f2050a0a14d
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Tue May 7 03:14:36 2024 -0600
+
+    modificacion boton eliminar
+
+commit 63011c8bdb02ac33e0a67b4f2414b0ad4c9cb38c
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Tue May 7 02:41:59 2024 -0600
+
+    base de facultades
+
+commit 7384af23df4fdbac60fd029bca8296fa73f40c15
+Author: Carlos-David-Rojas-Coronado <crojasc3@miumg.edu.gt>
+Date:   Tue May 7 00:32:29 2024 -0600
+
+    aun no se arregla ;-;
+
+commit 1f3aaf2dd3a96a4618c1e98357b00ec0a00e8d24
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Tue May 7 00:27:21 2024 -0600
+
+    prueba
+
+commit 26fe564c91765afaf001b89b595599b216ac5d43
+Author: Wilber Ordonez <wordonezr2@miumg.edu.gt>
+Date:   Tue May 7 00:20:33 2024 -0600
+
+    Prueba Lety
+
+commit f2f7567080a7b5094c51494f3751394a97f8467b
+Author: Carlos-David-Rojas-Coronado <crojasc3@miumg.edu.gt>
+Date:   Tue May 7 00:15:20 2024 -0600
+
+    se trata de solucionar el boton reistrar
+
+commit f30e1e875a86bc0137d0b71ccd69f6140e55ce14
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Mon May 6 23:25:41 2024 -0600
+
+    Mantenimiento Secciones
+
+commit 7233716a87920bb696be4523238eb86a3491d49c
+Author: Carlos-David-Rojas-Coronado <crojasc3@miumg.edu.gt>
+Date:   Mon May 6 19:42:12 2024 -0600
+
+    creaion de mantenimiento alumnos
+
+commit 53adcae288a2d791c7f23436e1db0a0e14acc9c2
+Author: Favio2907 <favio.alejandro2907@gmail.com>
+Date:   Mon May 6 17:38:00 2024 -0600
+
+    Subiendo rama carreras
+
+commit d68114391ce030a9535ffeaa83ab2af1b026a7e4
+Author: Esduardo Del Aguila <daguilae@yahoo.com>
+Date:   Mon May 6 11:58:49 2024 -0600
+
+    Se agregaron comentarios generales, ejemplos de uso de bitacora y se modifico el diseño de la forma
+
+commit 6f25995ca8f7eb457ad3eed61caf5a87295f3a9d
+Author: Esduardo Del Aguila <daguilae@yahoo.com>
+Date:   Mon May 6 11:25:14 2024 -0600
+
+    reinicio del proyecto universitario
+
+commit d0dcb2750379fd570e19a0a22586ea345dc5904f
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Mon May 6 11:03:10 2024 -0600
+
+    Initial commit

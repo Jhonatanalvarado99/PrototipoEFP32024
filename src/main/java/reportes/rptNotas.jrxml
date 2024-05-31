@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="null" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="e061923c-0147-4334-9be2-fc5fabe5f8f5">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<queryString language="SQL">
+		<![CDATA[SELECT *FROM ingresonotas]]>
+	</queryString>
+	<field name="cod_acta" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="not_semestre" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="not_año" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="carnet_alumno" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="not_parcial1" class="java.lang.Integer">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="not_parcial2" class="java.lang.Integer">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="not_examenfinal" class="java.lang.Integer">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="not_zonatareas" class="java.lang.Integer">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="not_totalpuntos" class="java.lang.Integer">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="51" splitType="Stretch">
+			<staticText>
+				<reportElement x="177" y="14" width="436" height="37" uuid="b906a614-c69d-4971-9625-918aa9ce8916"/>
+				<textElement textAlignment="Center">
+					<font fontName="SansSerif" size="20" isBold="true" isItalic="true"/>
+				</textElement>
+				<text><![CDATA[Universidad Mariano Galvez de Guatemala]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="35" splitType="Stretch">
+			<staticText>
+				<reportElement x="298" y="0" width="174" height="20" uuid="0af278d4-17d9-4cb4-9d31-85974c6420a0"/>
+				<textElement textAlignment="Center">
+					<font fontName="Monospaced" size="13" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Actas de Evaluacion]]></text>
+			</staticText>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="40" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="2" width="68" height="20" uuid="4f213aa4-f77e-4ba6-85a4-d925a53d8dda"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Codigo]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="68" y="2" width="84" height="20" uuid="25bd6617-5ec3-4a8d-a685-3dfe486d8a46"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Semestre]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="152" y="2" width="84" height="20" uuid="bbe23153-9944-4e07-a8bf-709767411954"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Año]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="236" y="2" width="100" height="20" uuid="da7aa937-7c4e-4e49-b810-4ec5143fa118"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Carnet Alumno]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="336" y="2" width="84" height="20" uuid="b0a639e8-da99-4b20-ab1e-92e0fa6bc10e"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Parcial 1]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="420" y="2" width="80" height="20" uuid="57fdcb8f-66be-43af-a09a-cb188464f3e5"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Parcial 2]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="500" y="2" width="83" height="20" uuid="60b2ad16-efae-424e-bc06-8d6bd6bcaf43"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Examen Final]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="583" y="2" width="86" height="20" uuid="b3551f40-d550-4302-8524-a4c325ad48d4"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Tareas]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="669" y="2" width="91" height="20" uuid="1e2e10a3-e59b-4d8a-b077-256a57be4ccc"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="12" isBold="true"/>
+				</textElement>
+				<text><![CDATA[Zona Total]]></text>
+			</staticText>
+			<line>
+				<reportElement x="0" y="22" width="760" height="1" uuid="dbecd6e4-f17a-4ac7-80e5-2150a9d49ce6"/>
+			</line>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="34" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="68" height="20" uuid="6a57941b-40ce-43a4-b85b-bb696c0dcaa7"/>
+				<textElement textAlignment="Center">
+					<font fontName="Tahoma" size="11"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{cod_acta}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="68" y="0" width="84" height="20" uuid="7d8630cb-6351-4aa7-b764-e3d2c18fbf05"/>
+				<textElement textAlignment="Center">
+					<font fontName="Tahoma" size="11"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{not_semestre}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="152" y="0" width="84" height="20" uuid="290a2a6e-f325-4628-8c75-5dc304679ae2"/>
+				<textElement textAlignment="Center">
+					<font fontName="Tahoma" size="11"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{not_año}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="236" y="0" width="100" height="20" uuid="f211e8fe-db5d-4f2f-9111-aab033985729"/>
+				<textElement textAlignment="Center">
+					<font fontName="Tahoma" size="11"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{carnet_alumno}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="336" y="0" width="84" height="20" uuid="36eb7e19-d7fc-46ac-9f42-c9be7de1258a"/>
+				<textElement textAlignment="Center">
+					<font fontName="Tahoma" size="11"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{not_parcial1}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="420" y="0" width="80" height="20" uuid="3c9fb24f-2389-4a67-a004-3548fb0c43f6"/>
+				<textElement textAlignment="Center">
+					<font fontName="Tahoma" size="11"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{not_parcial2}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="500" y="0" width="83" height="20" uuid="a830fd8e-933b-47f8-9e0b-a3f574f44ab3"/>
+				<textElement textAlignment="Center">
+					<font fontName="Tahoma" size="11"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{not_examenfinal}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="583" y="0" width="86" height="20" uuid="d7812c9b-367a-4c2c-9421-d6c8de80b684"/>
+				<textElement textAlignment="Center">
+					<font fontName="Tahoma" size="11"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{not_zonatareas}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="669" y="0" width="91" height="20" uuid="c5367742-23a5-404c-834a-c5490a8e2732"/>
+				<textElement textAlignment="Center">
+					<font fontName="Tahoma" size="11"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{not_totalpuntos}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

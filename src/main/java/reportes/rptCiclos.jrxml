@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="null" language="java" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="3f58c167-d190-4e36-a40b-5f510b2dfa04">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<queryString language="SQL">
+		<![CDATA[SELECT * from ciclos]]>
+	</queryString>
+	<field name="codigo_ciclo" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="nombre_ciclo" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="estatus_ciclo" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="79" splitType="Stretch">
+			<staticText>
+				<reportElement x="56" y="12" width="440" height="30" uuid="ca6d4f3b-289e-4dbf-978a-7dd7aa91563c"/>
+				<textElement>
+					<font fontName="Arial Black" size="18"/>
+				</textElement>
+				<text><![CDATA[Universidad Mariano Galvez de Guatemala]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="231" y="42" width="129" height="25" uuid="32b42c6d-a17f-461d-b89e-f5c77180a880"/>
+				<textElement>
+					<font fontName="Bahnschrift" size="14"/>
+				</textElement>
+				<text><![CDATA[Reporte de Ciclos]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="27" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="61" splitType="Stretch">
+			<staticText>
+				<reportElement x="56" y="2" width="100" height="20" uuid="9b315eb0-5cd8-44b0-bbf7-ad0835f54aaa"/>
+				<textElement>
+					<font fontName="Berlin Sans FB Demi" size="14"/>
+				</textElement>
+				<text><![CDATA[Codigo]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="231" y="0" width="100" height="20" uuid="dc93e01a-ea2f-41f7-974a-8e51aaca11f0"/>
+				<textElement>
+					<font fontName="Berlin Sans FB Demi" size="14"/>
+				</textElement>
+				<text><![CDATA[Nombre]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="422" y="2" width="100" height="20" uuid="d9a396b5-4763-4c1b-8c22-4723be2b7614"/>
+				<textElement>
+					<font fontName="Berlin Sans FB Demi" size="14"/>
+				</textElement>
+				<text><![CDATA[Estatus]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="125" splitType="Stretch">
+			<textField>
+				<reportElement x="56" y="11" width="100" height="20" uuid="0ae7b11f-5b8f-41a9-875e-dd1cc1d109a6"/>
+				<textFieldExpression><![CDATA[$F{codigo_ciclo}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="231" y="11" width="100" height="20" uuid="b428a0ba-0577-45f4-a398-eb8a2d521e8e"/>
+				<textFieldExpression><![CDATA[$F{nombre_ciclo}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="422" y="11" width="100" height="20" uuid="ed38f57f-07aa-44c6-8530-acd99942e4a1"/>
+				<textFieldExpression><![CDATA[$F{estatus_ciclo}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

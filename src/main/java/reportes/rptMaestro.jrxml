@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="null" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="7eff65d7-8834-4755-9166-dffa344878c6">
+	<property name="ireport.zoom" value="1.4641000000000013"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<style name="Title" forecolor="#FFFFFF" fontName="Arial" fontSize="26" isBold="true" pdfFontName="Helvetica-Bold"/>
+	<style name="SubTitle" forecolor="#666666" fontName="Arial" fontSize="18"/>
+	<style name="Column header" forecolor="#666666" fontName="Arial" fontSize="12" isBold="true"/>
+	<style name="Detail" fontName="Arial" fontSize="12"/>
+	<queryString language="SQL">
+		<![CDATA[SELECT *FROM maestros]]>
+	</queryString>
+	<field name="codigo_maestro" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="nombre_maestro" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="direccion_maestro" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="telefono_maetro" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="email_maestro" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<field name="estatus_maestro" class="java.lang.String">
+		<fieldDescription><![CDATA[]]></fieldDescription>
+	</field>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="69" splitType="Stretch">
+			<staticText>
+				<reportElement style="Title" x="0" y="6" width="555" height="33" forecolor="#000000" uuid="8bced6ae-1751-4f52-8a54-34efc4b72aea"/>
+				<textElement verticalAlignment="Middle"/>
+				<text><![CDATA[Universidad Mariano Galvez de Guatemala]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="SubTitle" x="152" y="39" width="200" height="22" forecolor="#000000" uuid="305b2792-f3f3-4447-8f53-47b9aa86297f"/>
+				<textElement textAlignment="Right"/>
+				<text><![CDATA[Reporte de Maestros]]></text>
+			</staticText>
+			<line>
+				<reportElement x="0" y="68" width="553" height="1" uuid="3f197425-c00b-4ec2-b90d-ee4b22df4009"/>
+			</line>
+		</band>
+	</title>
+	<pageHeader>
+		<band splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="36" splitType="Stretch">
+			<line>
+				<reportElement positionType="FixRelativeToBottom" x="0" y="35" width="555" height="1" uuid="d86c9b29-40c8-43e4-8db7-c933e374b11a"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineColor="#999999"/>
+				</graphicElement>
+			</line>
+			<staticText>
+				<reportElement style="Column header" x="0" y="19" width="92" height="15" forecolor="#000000" uuid="1b703a2e-8fdc-4837-9661-27c976c0b524"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="13" isUnderline="false" isStrikeThrough="false"/>
+				</textElement>
+				<text><![CDATA[Código]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="92" y="19" width="92" height="15" forecolor="#000000" uuid="4f0d3608-4ea6-4653-bdfe-f74b64483bee"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="13"/>
+				</textElement>
+				<text><![CDATA[Nombres]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="184" y="19" width="92" height="15" forecolor="#000000" uuid="71eb3fb6-3990-4ce2-ac3e-47857d8e0ede"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="13"/>
+				</textElement>
+				<text><![CDATA[Dirección]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="276" y="19" width="92" height="15" forecolor="#000000" uuid="70fd91df-2598-4790-a4f9-bb5884ff6c9f"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="13"/>
+				</textElement>
+				<text><![CDATA[Telefono]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="368" y="19" width="92" height="15" forecolor="#000000" uuid="ec528a76-7f10-451a-ae20-25ad12f35cd3"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="13"/>
+				</textElement>
+				<text><![CDATA[Email]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="460" y="19" width="92" height="15" forecolor="#000000" uuid="0f03ccb2-76e2-4eaa-9598-7fd6bad4049b"/>
+				<textElement textAlignment="Center">
+					<font fontName="Times New Roman" size="13" isItalic="false"/>
+				</textElement>
+				<text><![CDATA[Estatus]]></text>
+			</staticText>
+			<line>
+				<reportElement x="0" y="35" width="552" height="1" uuid="b9d44803-e94a-459d-88fd-ebae3f23337a"/>
+			</line>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="16" splitType="Stretch">
+			<line>
+				<reportElement positionType="FixRelativeToBottom" x="0" y="15" width="555" height="1" uuid="0e175507-44dc-45e1-9ce4-62142effcbd8"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineColor="#999999"/>
+				</graphicElement>
+			</line>
+			<textField>
+				<reportElement style="Detail" mode="Opaque" x="0" y="0" width="92" height="15" uuid="f55b0b88-238a-43d3-afcf-fb3bfc23055c"/>
+				<textElement textAlignment="Center">
+					<font fontName="Mongolian Baiti"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{codigo_maestro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" mode="Opaque" x="92" y="0" width="92" height="15" uuid="c1856565-d2fd-4706-b67e-3226d7208b4c"/>
+				<textElement textAlignment="Center">
+					<font fontName="Mongolian Baiti"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{nombre_maestro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" mode="Opaque" x="184" y="0" width="92" height="15" uuid="a8b0272a-d7b5-4510-af5e-f6f3262ad472"/>
+				<textElement textAlignment="Center">
+					<font fontName="Mongolian Baiti"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{direccion_maestro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" mode="Opaque" x="276" y="0" width="92" height="15" uuid="8fc8afc3-db5f-43f2-8c82-6478918847c2"/>
+				<textElement textAlignment="Center">
+					<font fontName="Mongolian Baiti"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{telefono_maetro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" mode="Opaque" x="368" y="0" width="92" height="15" uuid="40c21f95-650d-49cd-9e59-258178106f02"/>
+				<textElement textAlignment="Center">
+					<font fontName="Mongolian Baiti"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{email_maestro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" mode="Opaque" x="460" y="0" width="92" height="15" uuid="d0b0707c-2a57-416f-8db8-402f70dbcaa4"/>
+				<textElement textAlignment="Center">
+					<font fontName="Mongolian Baiti"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{estatus_maestro}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch">
+			<line>
+				<reportElement positionType="FixRelativeToBottom" x="0" y="3" width="555" height="1" uuid="0ca89b3f-4a24-43ba-b899-0ceb0f0b70ab"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineColor="#999999"/>
+				</graphicElement>
+			</line>
+		</band>
+	</columnFooter>
+	<pageFooter>
+		<band height="20" splitType="Stretch">
+			<textField>
+				<reportElement style="Column header" x="433" y="0" width="80" height="20" forecolor="#000000" uuid="6ef5e5c8-45c5-45eb-bb42-f6f1ed579d1c"/>
+				<textElement textAlignment="Right">
+					<font size="10" isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA["Page "+$V{PAGE_NUMBER}+" of"]]></textFieldExpression>
+			</textField>
+			<textField evaluationTime="Report">
+				<reportElement style="Column header" x="513" y="0" width="40" height="20" forecolor="#000000" uuid="e7ccbf99-7fc5-42b8-b223-7b0b6ff5c7a5"/>
+				<textElement>
+					<font size="10" isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[" " + $V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+			<textField pattern="EEEEE dd MMMMM yyyy">
+				<reportElement style="Column header" x="0" y="0" width="197" height="20" forecolor="#000000" uuid="fd6f07d3-72ff-4b54-84e3-57d9bed2fc03"/>
+				<textElement>
+					<font size="10" isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[new java.util.Date()]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+	<summary>
+		<band splitType="Stretch"/>
+	</summary>
+</jasperReport>

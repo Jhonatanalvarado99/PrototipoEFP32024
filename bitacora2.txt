@@ -1,0 +1,73 @@
+commit 0608e735877642d21cfd3d91975d59320c2d32a3
+Author: Jose García <joseagmont@gmail.com>
+Date:   Sun May 12 19:21:14 2024 -0600
+
+    ReporteTiposDePagos
+
+commit 624f14b2d20269e24cd056a3fcda253b2cc8994d
+Author: Jose García <joseagmont@gmail.com>
+Date:   Thu May 9 18:01:31 2024 -0600
+
+    AyudasTiposDePagos
+
+commit 03e3b931866bb574fb612c9aee9473bda33868ab
+Merge: 1bdc6f8 0becaf6
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Wed May 8 12:14:44 2024 -0600
+
+    Merge branch 'edelaguila:main' into main
+
+commit 0becaf6a544803748c03e072482be5372ac441f5
+Author: Esduardo Del Aguila <daguilae@yahoo.com>
+Date:   Wed May 8 12:11:15 2024 -0600
+
+    agregando funcionabilidad a la bitacora de seguridad y los reportes
+
+commit 1bdc6f8953c467cb20580c55a132c77a1249748d
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Tue May 7 15:25:55 2024 -0600
+
+    Mantenimientos
+
+commit 1f5a273b0a614a7f86ea432d2fc909be6fa2b6a3
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Tue May 7 15:25:33 2024 -0600
+
+    ClasesDAO
+
+commit 61b4093ec3cca3e6ad8874c90fdf32e1cc5993b9
+Author: Oscar Morales <157633781+OscarRuben2024@users.noreply.github.com>
+Date:   Tue May 7 15:25:05 2024 -0600
+
+    Clases
+
+commit ec52e6f2736ed5a7cabae24be5a72f774bcd61f4
+Merge: 4391868 d681143
+Author: Oscar Morales <omoraless6@miumg.ed.gt>
+Date:   Tue May 7 15:20:26 2024 -0600
+
+    Merge branch 'main' of https://github.com/OscarRuben2024/proyectop32k24b
+
+commit 439186863abcd8406b203558c4d47dec9eee3705
+Author: Oscar Morales <omoraless6@miumg.ed.gt>
+Date:   Tue May 7 15:18:57 2024 -0600
+
+    agregando Clases
+
+commit d68114391ce030a9535ffeaa83ab2af1b026a7e4
+Author: Esduardo Del Aguila <daguilae@yahoo.com>
+Date:   Mon May 6 11:58:49 2024 -0600
+
+    Se agregaron comentarios generales, ejemplos de uso de bitacora y se modifico el diseño de la forma
+
+commit 6f25995ca8f7eb457ad3eed61caf5a87295f3a9d
+Author: Esduardo Del Aguila <daguilae@yahoo.com>
+Date:   Mon May 6 11:25:14 2024 -0600
+
+    reinicio del proyecto universitario
+
+commit d0dcb2750379fd570e19a0a22586ea345dc5904f
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Mon May 6 11:03:10 2024 -0600
+
+    Initial commit
